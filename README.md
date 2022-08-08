@@ -31,7 +31,7 @@
   <img align="center" alt="Einstein-Redhat" height="30" width="40"<img src="https://icongr.am/devicon/redhat-original.svg?size=30&color=currentColor" />
 
 ##
-  [Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
